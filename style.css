@@ -1,0 +1,187 @@
+body {
+    background-color: #2b2a2a;
+}
+
+.fff {
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: block;
+    border: solid;
+    border-radius: 10px;
+    border-color: #f09eed;
+}
+
+input {
+    border-color: white;
+    background-color: #2b2a2a;
+    color: whitesmoke;
+    border: 1;
+    border-radius: 10px;
+
+}
+
+button {
+    border-color: whitesmoke;
+    background-color: #97e8fc;
+    border-radius: 10px;
+    color: whitesmoke;
+    width: 100px;
+    cursor: pointer;
+}
+
+.logo1 img {
+    border: solid;
+    border-radius: 100px;
+    border-color: whitesmoke;
+}
+.logo1 {
+    width: 50%;
+    color: #f09eed;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    justify-content: space-evenly;
+}
+.logo1 h1 {
+    margin-left: 10px;
+    padding-left: 20px;
+}
+.logo1 hr {
+    border: solid;
+    border-radius: 50px;
+
+}
+.header {
+    display: flex;
+    height: 50px;
+    background-color: black;
+    color: #97e8fc;
+    justify-content: space-evenly;
+    text-decoration: dotted;
+    margin-top: -10px;
+    margin-left: -10px;
+    margin-right: -9px;
+    border: solid;
+}
+.header a {
+    text-decoration: none;
+    justify-items: end;
+    justify-content: space-evenly;
+    color: orange;
+    margin-top: 2%;
+    
+}
+.header h3 {
+    margin-right: 30%;
+    width: 100px;
+    margin-top: 2%;
+}
+
+.hhh {
+    border: solid;
+    color: whitesmoke;
+    border-color: #f09eed;
+    border-radius: 20px;
+    width: 60%;
+    background-color: black;
+}
+.hhh p {
+    font-family: 'Courier New', Courier, monospace;
+}
+.suu {
+    font: bold;
+    color: whitesmoke;
+}
+.suu hr {
+    border: solid;
+    border-radius: 50px;
+    width: 40px;
+}
+
+.about {
+    border: solid;
+    color: whitesmoke;
+    border-color: #f09eed;
+    border-radius: 20px;
+    width: 65%;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.yuhu {
+    font: bold;
+    color: whitesmoke;
+}
+.yuhu hr {
+    border: solid;
+    border-radius: 50px;
+    width: 40px;
+}
+.sss {
+    font: bold;
+    color: whitesmoke;
+}
+.sss hr {
+    border: solid;
+    border-radius: 50px;
+    width: 40px;
+}
+.s1 {
+    border: solid;
+    color: whitesmoke;
+    border-color: #f09eed;
+    border-radius: 20px;
+    width: 65%;
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+.c1 {
+    font: bold;
+    color: whitesmoke;
+}
+.c1 hr {
+    border: solid;
+    border-radius: 50px;
+    width: 40px;
+}
+.logo2 {
+    width: 50%;
+    color: #f09eed;
+    display: flex;
+    margin-bottom: 50px;
+}
+.logo2 img {
+    border: solid;
+    border-radius: 100px;
+    border-color: whitesmoke;
+}
+.ccc {
+    display: flex;
+    border: solid;
+    color: whitesmoke;
+    border-color: #f09eed;
+    border-radius: 20px;
+    width: 60%;
+    height: 150px;
+    background-color: black;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+.ccc p {
+    display: flex;
+    margin-left: -125px;
+}
+.logo3 {
+    width: 50%;
+    color: whitesmoke;
+    text-decoration: underline;
+    display: solid;
+    margin-bottom: 50px;
+}
+.logo3 img {
+    border: solid;
+    border-radius: 100px;
+    border-color: whitesmoke;
+}    
